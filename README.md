@@ -8,7 +8,7 @@
   
 🔭 Eu sou desenvolvedor  Software Enginner React Native 
 
-💬 Sou entusiasta no desenvolvimento Java para APIs
+💬 Sou entusiasta no desenvolvimento React Native para APIs
  
 ## 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
 
