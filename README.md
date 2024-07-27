@@ -6,7 +6,7 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor Back-end e atualmente Estudo com Java
+🔭 Eu sou desenvolvedor  Software Enginner React Native 
 
 💬 Sou entusiasta no desenvolvimento Java para APIs
  
