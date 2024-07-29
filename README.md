@@ -6,9 +6,9 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor  Software Enginner React Native 
+🔭 Eu sou desenvolvedor Front End React 
 
-💬 Sou entusiasta no desenvolvimento React Native
+💬 Sou entusiasta no desenvolvimento React 
  
 ## 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
 
