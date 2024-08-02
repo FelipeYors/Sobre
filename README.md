@@ -6,9 +6,9 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor Front End React 
+🔭 Eu sou desenvolvedor  Back Edn Java 
 
-💬 Sou entusiasta no desenvolvimento React 
+💬 Sou entusiasta no desenvolvimento JAVA 
  
 ## 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
 
