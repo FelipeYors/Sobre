@@ -6,7 +6,7 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor  Back Edn Java 
+🔭 Eu sou desenvolvedor  Back End Java 
 
 💬 Sou entusiasta no desenvolvimento JAVA 
  
