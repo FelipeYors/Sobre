@@ -6,9 +6,9 @@
 
 <div align="center">
   
-🔭 Eu sou desenvolvedor  Back End Java 
+🔭 Eu sou desenvolvedor  Full Stack
 
-💬 Sou entusiasta no desenvolvimento JAVA 
+💬 Sou entusiasta no desenvolvimento Full Stack
  
 ## 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
 
