@@ -10,7 +10,7 @@
 
  <img align="left" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  <img aling="left" height="70" width="80" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/>
- <img aling="left" height="70" width="80" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor"/>
+
 
 
  
