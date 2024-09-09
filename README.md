@@ -1,6 +1,6 @@
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=👨‍💻+Hi+there.+My+name+is+Felipe+Yorison+and+I+am+a+backend+dev.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=👨‍💻+Hi+there.+My+name+is+Felipe+Yorison+and+I+am+a+Analista+Dados+.dev)
 
 | ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeYors&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1) | ![Athirson's GitHub stats](https://github-readme-stats.vercel.app/api?username=&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
 | ----------- | ----------- |
@@ -9,14 +9,18 @@
 
 
  <img align="left" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ <img aling="left" height="70" width="80" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor"/>
+ <img aling="left" height="70" width="80" src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor"/>
+
+
  
 <br>
 
 💬 **▸ Socials & Contacts:**
 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-yorrison-830a45296/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipedev3/)
-  [![Email](https://img.shields.io/badge/Gmail-F51919?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yorrisonfl@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-yorrison-4b2ab5323/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipeyorrison1/)
+  [![Email](https://img.shields.io/badge/Gmail-F51919?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeyorrisson190@gmail.com)
 
   
 <br>
