@@ -7,12 +7,12 @@
 📚 Também com Projetos React,Nodejs,Java,Angular<br>
 
 ## Habilidades:
-React.js<br>
-JavaScript<br>
+React.js,
+JavaScript
 Java<br>
-HTML/CSS<br>
-Nodejs<br>
-Nextjs<br>
+HTML/CSS
+Nodejs
+Nextjs
 
 ## Saiba mais sobre mim acessando minhas Redes!
 <div>
