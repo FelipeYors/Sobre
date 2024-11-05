@@ -13,6 +13,7 @@ Java<br>
 HTML/CSS
 Nodejs
 Nextjs
+Tailwind CSS
 
 ## Saiba mais sobre mim acessando minhas Redes!
 <div>
