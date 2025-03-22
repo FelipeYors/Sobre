@@ -1,6 +1,6 @@
 <h1 align="center">Felipe Yorrison 🧑‍💻</p>
 
-#### <p> Sou um desenvolvedor Front-End especializado em JavaScript e TypeScript com uma sólida base no setor varejista, agora atualmente na a área de tecnologia. Minha carreira no varejo como Conferente de Carga me proporcionou habilidades essenciais, como atenção aos detalhes, trabalho em equipe e resolução de problemas, que agora aplico no desenvolvimento de soluções inovadoras. Com habilidades em React, Tailwind e Figma, estou pronto para criar interfaces de usuário intuitivas e responsivas, proporcionando a melhor experiência para os usuários finais.
+#### <p> Sou um desenvolvedor Full Stack especializado em JavaScript e TypeScript com uma sólida base no setor varejista, agora atualmente na a área de tecnologia. Minha carreira no varejo como Conferente de Carga me proporcionou habilidades essenciais, como atenção aos detalhes, trabalho em equipe e resolução de problemas, que agora aplico no desenvolvimento de soluções inovadoras. Com habilidades em React, Tailwind e Figma, estou pronto para criar interfaces de usuário intuitivas e responsivas, proporcionando a melhor experiência para os usuários finais.
 </p>
 
 💻 No momento, Desenvolvedor  Front End<br>
