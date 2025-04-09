@@ -4,29 +4,23 @@
 
 Atualmente, estou focado no desenvolvimento backend com Java, Estou sempre buscando aprender e crescer, tanto tecnicamente quanto em colaboração com times ágeis.
 
-💻 Atualmente: Desenvolvedor Java Júnior -- Habilidades Técnicas
+💻 Atualmente: Desenvolvedor Java Júnior 
+
+#Habilidades Técnicas
 Linguagens: Java 17, JavaScript, TypeScript, SQL
-
-Backend: Spring Boot, Spring Data JPA, Node.js (básico)
-
-Banco de Dados: MySQL
-
-APIs: RESTful APIs, Postman
-
-Versionamento: Git, GitHub
-
-Testes: JUnit, Mockito (básico)
-
-Boas Práticas: POO, SOLID, Clean Code
-
-Outros: Docker (básico), metodologias ágeis
+-> Backend: Spring Boot, Spring Data JPA, Node.js (básico)
+-> Banco de Dados: MySQL
+-> APIs: RESTful APIs, Postman
+-> Versionamento: Git, GitHub
+-> Testes: JUnit, Mockito (básico)
+-> Boas Práticas: POO, SOLID, Clean Code
+-> Outros: Docker (básico), metodologias ágeis
 </p>
 
 
-💻 No momento, Desenvolvedor  Front End<br>
-📚 Também com Projetos React,TypeScript,Nextjs,JavaScript<br>
+💻 No momento, Desenvolvedor  Java Developer<br> 
 
-## Saiba mais sobre mim acessando minhas Redes!
+## Saiba mais sobre mim acessando minhas Redes! 👇
 <div>
  <a href="https://www.linkedin.com/in/felipe-yorrison-4b2ab5323/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:developersoftware479@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
